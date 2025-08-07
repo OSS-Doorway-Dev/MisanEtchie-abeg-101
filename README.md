@@ -2,7 +2,7 @@
 
 ---
 
-### 🕒 Progress Update: 2025-08-07 03:53:06 UTC
+### 🕒 Progress Update: 2025-08-07 03:54:14 UTC
 
 ⚙️ Current Quest: 
   - Q1 - Q1: Understanding OSS Projects and GitHub Basics
@@ -10,6 +10,6 @@
     -  ~T2 - Explore the pull-request menu~ [[COMPLETED](https://github.com/OSS-Doorway-Dev/MisanEtchie-abeg-101/issues/2)]
     -  ~T3 - Explore the fork button~ [[COMPLETED](https://github.com/OSS-Doorway-Dev/MisanEtchie-abeg-101/issues/3)]
     -  ~T4 - Explore the readme file~ [[COMPLETED](https://github.com/OSS-Doorway-Dev/MisanEtchie-abeg-101/issues/4)]
-    - T5 - Explore the contributors [[Click here to start](https://github.com/OSS-Doorway-Dev/MisanEtchie-abeg-101/issues/5)]
-    - T6 - Quiz [Click here to start]
+    -  ~T5 - Explore the contributors~ [[COMPLETED](https://github.com/OSS-Doorway-Dev/MisanEtchie-abeg-101/issues/5)]
+    - T6 - Quiz [[Click here to start](https://github.com/OSS-Doorway-Dev/MisanEtchie-abeg-101/issues/6)]
 
